@@ -1,6 +1,6 @@
 # Saudi Mile Market (سوق الأميال السعودي)
 
-![Saudi Mile Market](https://www.saudi-mile-market.com/images/link/lg.png)
+![Saudi Mile Market](https://zerrodevs.github.io/saudi-mile-market/images/link/lg.png)
 
 Welcome to the **Saudi Mile Market** project! This is a premier destination web interface designed for purchasing Saudi Airlines miles. Users can explore options to buy miles which can be exchanged for flights, ticket upgrades, and more.
 
